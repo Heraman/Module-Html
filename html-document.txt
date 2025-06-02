@@ -1,0 +1,3 @@
+Semua dokumen HTML harus dimulai dengan deklarasi tipe dokumen: `<!DOCTYPE html>`.
+Dokumen HTML itu sendiri dimulai dengan `<html>` dan diakhiri dengan `</html>`.
+Bagian yang terlihat (Ditampilkan di browser) dari dokumen HTML berada di antara tag `<body>` dan `</body>`.
